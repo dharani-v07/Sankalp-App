@@ -1,0 +1,29 @@
+# Flutter ignores
+build/
+.dart_tool/
+.packages
+.pub-cache/
+.pub/
+android/.gradle/
+android/app/debug/
+android/app/profile/
+android/app/release/
+ios/Pods/
+ios/.symlinks/
+ios/Flutter/
+
+# Web / Node
+node_modules/
+
+# IDE files
+.idea/
+*.iml
+
+# Others
+.svn/
+
+# Ignore big media files
+*.mp4
+*.avi
+*.mkv
+ScreenShort & ScreenRecord/

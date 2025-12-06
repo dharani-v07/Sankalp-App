@@ -103,30 +103,3 @@ GitHub: dharani-v07
 
 This project is intended for learning and demo purposes.
 You may fork and experiment with it for educational use.
-
-
----
-
-### 🔄 Output of this step:
-- Your GitHub page will show a **clean, professional README** instead of default Flutter text.
-- Anyone opening your repo will immediately understand:  
-  → What is Sankalp App  
-  → How to run it  
-  → What tech you used  
-
----
-
-## 3️⃣ How to Add This Project in Your Resume (With GitHub Link)
-
-You can add this under **Projects** section like this:
-
-```text
-Sankalp App – Smart India Hackathon 2025 (Flutter)
-Tech Stack: Flutter, Dart, Android Studio, Git, GitHub
-
-• Developed a Flutter-based mobile app to create and track personal “Sankalp” (goals/intentions).
-• Designed clean UI screens and implemented basic goal management features.
-• Used Git and GitHub for version control and project hosting.
-• Deployed the complete project to a public GitHub repository.
-
-GitHub: https://github.com/dharani-v07/Sankalp-App

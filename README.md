@@ -1,16 +1,44 @@
-# my_sankalp_app
+# Sankalp App 📱✨  
+**“An app developed for SIH 2025”**
 
-A new Flutter project.
+Sankalp App is a Flutter-based mobile application built as a prototype for **Smart India Hackathon (SIH) 2025**.  
+The app helps users create, manage, and track their *Sankalp* (goals/intentions) with a simple and clean interface.
 
-## Getting Started
+---
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- 🔐 **User Onboarding** – Splash screen & basic navigation  
+- 📝 **Create Sankalp** – Add goals/intentions  
+- 📋 **View Sankalp List** – Show saved goals  
+- 🗑 **Delete / Manage** – Basic operations on goals  
+- 🎨 **Simple UI** – Built using Flutter widgets  
+- 🧱 **Modular Code** – Clean separation of UI and logic  
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+*(You can extend this section based on your actual features – I can help you update later.)*
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+---
+
+## 🛠 Tech Stack
+
+| Layer      | Technology          |
+|-----------|----------------------|
+| Framework | Flutter              |
+| Language  | Dart                 |
+| IDE       | Android Studio       |
+| Version Control | Git & GitHub   |
+
+---
+
+## 📂 Project Structure (Main Folders)
+
+```text
+Sankalp-App/
+ ├─ lib/                 # Main Flutter source code
+ ├─ android/             # Android-specific code
+ ├─ ios/                 # iOS-specific code
+ ├─ web/                 # Web support
+ ├─ windows/ linux/ macos # Desktop support
+ ├─ test/                # Test files
+ ├─ pubspec.yaml         # Flutter dependencies & metadata
+ └─ README.md            # Project documentation
